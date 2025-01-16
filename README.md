@@ -1,1 +1,1 @@
-live: https://suraiya-jahan-bhuiyan-sraboni.github.io/chat-app/
+live: https://suraiya-jahan-bhuiyan-sraboni.github.io/chat-app/ (desktop only)
